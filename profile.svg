@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-label="Abstract MA monogram illustration">
+  <rect width="600" height="600" fill="#f3f1ec"/>
+  <circle cx="300" cy="300" r="235" fill="none" stroke="#ded8cd" stroke-width="2"/>
+  <circle cx="300" cy="300" r="190" fill="none" stroke="#e6e1d8" stroke-width="2" stroke-dasharray="3 12"/>
+  <path d="M115 430 C180 345 190 250 300 160 C410 250 420 345 485 430" fill="none" stroke="#c6b69e" stroke-width="3"/>
+  <text x="300" y="330" text-anchor="middle" font-family="Georgia,serif" font-size="150" font-weight="bold" letter-spacing="-14" fill="#34352f">MA</text>
+  <text x="300" y="385" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" letter-spacing="7" fill="#777a75">MOHAMMED AL-AMOUDI</text>
+</svg>
